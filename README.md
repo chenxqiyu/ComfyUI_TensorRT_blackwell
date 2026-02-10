@@ -1,5 +1,5 @@
 comfyui v0.3.62
-
+torch2.9.1+cu128
 # TensorRT Node for ComfyUI
 
 This node enables the best performance on NVIDIA RTX™ Graphics Cards
