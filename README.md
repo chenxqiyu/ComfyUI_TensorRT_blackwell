@@ -1,5 +1,5 @@
 ```
-comfyui v0.3.62
+comfyui v0.10.0
 torch2.9.1+cu128
 ```
 # TensorRT Node for ComfyUI
