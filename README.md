@@ -1,12 +1,6 @@
 ```
 comfyui v0.10.0
 torch2.9.1+cu128
-
-
-#cu12
-tensorrt==10.13.2.6
-#cu13
-tensorrt==10.15.1.29
 ```
 # TensorRT Node for ComfyUI
 
